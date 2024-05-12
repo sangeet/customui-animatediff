@@ -8,7 +8,7 @@ Workflow:
 <img src="workflow.png">
 
 Equivalent UI:
-<video src="webui.webm" />
+[webui.webm](https://github.com/sangeet/customui-animatediff/assets/346858/35548220-3f3c-46e4-a568-320f95036274)
 
 
 ## Introduction
